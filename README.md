@@ -23,6 +23,7 @@ Notes:
 
     All input values should be provided in appropriate units (e.g., velocity in m/s, angles in degrees).
     Make sure to have the necessary dependencies (e.g., SymPy) installed to run the scripts.
+    Gravity is taken as 10 m/s^2.
 
 Contributors:
 
